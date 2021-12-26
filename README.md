@@ -39,3 +39,4 @@ Visualize campaign outcomes ("successful," "failed," and "canceled") based on la
       - *Goal*, *Number Successful*, *Number Failed*, *Number Canceled*, *Total Projects*, *Percentage Successful*, *Percentage Failed*, *Percentage Canceled*.
     - Create dollar-amount ranges so projects can be grouped based on their goal amount.
     - Use **COUNTIFS()** functions in the columns: *Number Successful*, *Number Failed* and *Number Canceled* 
+    <img src="/Images/img4.png" width="50%" height="50%">
