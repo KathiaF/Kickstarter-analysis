@@ -41,4 +41,11 @@ Visualize campaign outcomes ("successful," "failed," and "canceled") based on la
     - Use **COUNTIFS()** functions in the columns: *Number Successful*, *Number Failed* and *Number Canceled* 
     - <img src="/Images/img4.png" width="50%" height="50%">
     - Use the **SUM()** function in the column *Total Projects* with the *Number Successful*, *Number Failed* and *Number Canceled* columns and get the percentage of successful, failed, and canceled projects for each row
-    - <img src="/Images/img5.png" width="50%" height="50%">
+    <img src="/Images/img5.png" width="50%" height="50%">
+ 2. Create a line chart to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects.
+    - Chart elements:
+      - Chart title: *Outcomes Based on Goal*
+      - x-axis: goal-amount ranges
+      - y-axis: percentage of successful, failed, or canceled projects.
+    - Save the chart as *Outcomes_vs_Goals.png*.
+    <img src="/Images/img6.png" width="50%" height="50%">
