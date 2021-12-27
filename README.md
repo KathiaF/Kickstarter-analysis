@@ -5,9 +5,8 @@
 Kickstarter is an online crowdfunding platform for launching creative projects and in this activity examines Kickstarter campaigns from 2009 to 2017 and aims to uncover trends related to theater projects to help Louise launch a successful campaign.
 
 ### Purpose
-The purpose of this project is to help Louise launch a Kickstarter campaign to found her play *Fever*, through the analysis of the *Kickstarter* database which shows the project's campaigns that have resulted in success, failure or have been canceled, using excel to analyze and understand real world campaigns (specifically theater projects) from start to finish by visualizing the relationship of launch dates and their funding goals. Our goal is to be able to set her campaign to mirror other successful ones in the same category and help her to start her production.
+The purpose of this project is to help Louise launch a Kickstarter campaign to found her play *Fever*, through the analysis of the *Kickstarter* dataset which shows the project's campaigns that have resulted in success, failure or have been canceled, using excel to analyze and understand real world campaigns (specifically theater projects) from start to finish by visualizing the relationship of launch dates and their funding goals. Our goal is to be able to set her campaign to mirror other successful ones in the same category and help her to start her production.
 
-gain insights on how different campaigns, specific to plays, fared in relation to their launch dates and their funding goals.
 # kickstarter-analysis
 ## Analysis and Challenges
 
@@ -38,7 +37,7 @@ The focus of this analysis is to visualize campaign outcomes ("successful," "fai
   
    
  ### Analysis of Outcomes Based on Goals
- Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount
+ The focus of this analysis is to Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. In order to do this, the following steps needed to be taken prior to conducting the analysis:
  1. Create a new sheet and label it *Outcomes Based on Goals*
     - Add the following columns:
       - *Goal*, *Number Successful*, *Number Failed*, *Number Canceled*, *Total Projects*, *Percentage Successful*, *Percentage Failed*, *Percentage Canceled*.
@@ -71,6 +70,8 @@ The main challenge I had while doing this activity was time management. The acti
   - The biggest factor in having a successful campaing project is the funding goal. The lower the budget requested for financing the campaign for the project, the greater the probability of success. Campaigns that request a fundraiser greater than $50,000 are more likely to fail or be canceled.
 
 - What are some limitations of this dataset?
+  - The lack of data pertaining to related to theater projects specifically plays, the dataset contains a total of 1,066 data related to plays, which represents 25% of the data set.
+  - We are in the year 2021 and the dataset is prior to the pandemic caused by covid-19, hence, it would be pertinent to perform the analysis of a dataset that also includes information on the projects that concluded during 2020 and 2021.
 
 - What are some other possible tables and/or graphs that we could create?
 
