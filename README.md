@@ -68,7 +68,7 @@ The main challenge I had while doing this activity was time management. The acti
   - It is observed that during the period from 2009 to 2015, 47% of the campaigns that were launched during October failed, however, historically none of the campaigns were canceled. 
 
 - What can you conclude about the Outcomes based on Goals?
-  - The biggest factor in having a successful campaing project is the funding goal. The lower the budget requested for financing the campaign for the project, the greater the probability of success. Campaigns that request a fundraiser greater than $50,000 are more likely to fail or be canceled.
+  - The biggest factor in having a successful campaing project is the funding goal. The lower the budget requested for financing the campaign for the project, the greater the probability of success. Campaigns that request a fundraiser greater than $50,000 are more likely to fail.
 
 - What are some limitations of this dataset?
   - The lack of data pertaining to related to theater projects specifically plays, the dataset contains a total of 1,066 data related to plays, which represents 25% of the data set.
