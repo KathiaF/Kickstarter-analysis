@@ -66,9 +66,11 @@ The main challenge I had while doing this activity was time management. The acti
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   - It looks like about 61% of all Kickstarter projects get successfully funded by the deadline and the best months to launch a campaign are May and June, as the campaigns that were launched in those months resulted in 68% and 65% success respectively. And the worst month to launch a campaign is December as 47% of campaigns tend to fail.
   - It is observed that during the period from 2009 to 2015, 47% of the campaigns that were launched during October failed, however, historically none of the campaigns were canceled. 
+<img src="/Resources/Theater_Outcomes_vs_Launch.png" width="50%" height="50%">
 
 - What can you conclude about the Outcomes based on Goals?
-  - The biggest factor in having a successful campaing project is the funding goal. The lower the budget requested for financing the campaign for the project, the greater the probability of success. Campaigns that request a fundraiser greater than $50,000 are more likely to fail.
+  - The biggest factor in having a successful campaing project is the funding goal. The lower the budget requested for financing the campaign for the project, the greater the probability of success. Campaigns that request a fundraiser greater than $45,000 are more likely to fail.
+<img src="/Resources/Outcomes_vs_Goals.png" width="50%" height="50%">
 
 - What are some limitations of this dataset?
   - The lack of data pertaining to related to theater projects specifically plays, the dataset contains a total of 1,066 data related to plays, which represents 25% of the data set.
