@@ -2,7 +2,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Kickstarter is an online crowdfunding platform for launching creative projects and in this activity examines Kickstarter campaigns from 2009 to 2017 and aims to uncover trends related to theater projects to help Louise launch a successful campaign.
+Kickstarter is an online crowdfunding platform for launching creative projects and this activity examines Kickstarter campaigns from 2009 to 2017 and aims to uncover trends related to theater projects to help Louise launch a successful campaign.
 
 ### Purpose
 The purpose of this project is to help Louise launch a Kickstarter campaign to found her play *Fever*, through the analysis of the *Kickstarter* dataset which shows the project's campaigns that have resulted in success, failure or have been canceled, using excel to analyze and understand real world campaigns (specifically theater projects) from start to finish by visualizing the relationship of launch dates and their funding goals. Our goal is to be able to set her campaign to mirror other successful ones in the same category and help her to start her production.
