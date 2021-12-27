@@ -75,4 +75,6 @@ The main challenge I had while doing this activity was time management. The acti
   - We are in the year 2021 and the dataset is prior to the pandemic caused by covid-19, hence, it would be pertinent to perform the analysis of a dataset that also includes information on the projects that concluded during 2020 and 2021.
 
 - What are some other possible tables and/or graphs that we could create?
+  - We could do an analysis based on the country and currency, also on the length of campaigns and the average donation.
+  - Use other charts like bar charts, pie charts or box plots.
 
