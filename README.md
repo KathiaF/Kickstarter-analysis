@@ -49,3 +49,20 @@ Visualize campaign outcomes ("successful," "failed," and "canceled") based on la
       - y-axis: percentage of successful, failed, or canceled projects.
     - Save the chart as *Outcomes_vs_Goals.png*.
     <img src="/Images/img6.png" width="50%" height="50%">
+
+### Challenges and Difficulties Encountered
+The main challenge I had while doing this activity was time management. The activity is well explained and is guided in a simple way through module 1 and although I had no problems developing the activity in Excel, some possible difficulties could perhaps be creating the pivot tables correctly or the correct use of the **COUNTIFS()** function and its attributes. 
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+  1. The best months to launch a campaign are May and June, as the campaigns that were launched in those months resulted in 68% and 65% success respectively.
+  2. It is observed that during the period from 2009 to 2015, 47% of the campaigns that were launched during October failed, however, historically none of the campaigns were canceled.
+
+- What can you conclude about the Outcomes based on Goals?
+  - The lower the budget requested for financing the campaign for the project, the greater the probability of success and campaigns that request a fundraiser greater than 50,000 are more likely to fail or be canceled.
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
